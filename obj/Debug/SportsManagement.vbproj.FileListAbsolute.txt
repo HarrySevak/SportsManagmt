@@ -1,0 +1,183 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\bin\Debug\SportsManagement.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\bin\Debug\SportsManagement.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\bin\Debug\SportsManagement.xml
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.xml
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\SportsManagement\obj\Debug\SportsManagement.Form2.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.exe
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.xml
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe
+F:\imp.data\Desktop\SportsManagement\SportsManagement\bin\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\SportsManagement\SportsManagement\bin\Debug\SportsManagement.xml
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\bin\Debug\Databasesport.sdf
+F:\imp.data\Desktop\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe.config
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Login_reg.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Player.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.state.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+I:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe.config
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.exe
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.xml
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.pdb
+I:\SportsManagement\SportsManagement\bin\Debug\Databasesport.sdf
+I:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe
+I:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.pdb
+I:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.xml
+I:\SportsManagement\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Login_reg.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Player.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.state.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+I:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+E:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe.config
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.exe
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.xml
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.pdb
+E:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.exe
+E:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.pdb
+E:\SportsManagement\SportsManagement\bin\Debug\SportsManagement.xml
+E:\SportsManagement\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Player.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.state.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Loginreg.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+E:\SportsManagement\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+G:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe.config
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.exe
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.xml
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.pdb
+G:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe
+G:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.pdb
+G:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.xml
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Player.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.state.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginreg.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+G:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+H:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe.config
+H:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.exe
+H:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.xml
+H:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.pdb
+D:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe.config
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.exe
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.xml
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.pdb
+D:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe
+D:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.pdb
+D:\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.xml
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Player.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.state.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginreg.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+D:\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe.config
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.exe
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.xml
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.xml
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.EndForm.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Player.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.state.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginreg.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+F:\imp.data\Desktop\New Folder\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe.config
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.exe
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.xml
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.exe
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.pdb
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\SportsManagement.xml
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Collage.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginfrm.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.mainpage.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Resources.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Player.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Reset.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.SplashScreensport.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Sports.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.state.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Loginreg.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.Studregistrn.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournamenT_ingm.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.tournament.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.vbproj.GenerateResource.Cache
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.verifyplayer.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\game1.mdf
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\bin\Debug\game1_log.ldf
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.reqregistration.resources
+F:\imp.data\Desktop\SportsManagement 1.1\SportsManagement\obj\Debug\SportsManagement.notify.resources

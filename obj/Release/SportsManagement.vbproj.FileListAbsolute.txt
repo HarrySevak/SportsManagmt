@@ -1,0 +1,11 @@
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\ResolveAssemblyReference.cache
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Loginfrm.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.EndForm.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.mainpage.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Resources.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.SplashScreensport.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.vbproj.GenerateResource.Cache
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Login_reg.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Reset.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Sports.resources
+F:\imp.data\Desktop\SportsManagement\SportsManagement\obj\Release\SportsManagement.Studregistrn.resources
